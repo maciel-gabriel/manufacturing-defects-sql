@@ -4,7 +4,7 @@
 Exploratory SQL analysis of a manufacturing defects dataset, identifying patterns by day, hour, and shift to support quality and production decisions.
 
 ## Dataset
-Source: [link do Kaggle aqui]
+Source: https://www.kaggle.com/datasets/gabrielsantello/manufacturing-defects-industry-dataset
 Columns: Day, Sample (time), Defects.
 
 ## Tools
